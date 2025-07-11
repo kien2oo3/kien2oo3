@@ -8,11 +8,11 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="TypeScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=00599C" alt="C++ logo" title="TypeScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=00599C" alt="C++ logo" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=512BD4" alt=".NET logo" title="TypeScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/.NET-282C34?logo=.net&logoColor=512BD4" alt=".NET logo" title=".NET" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
@@ -50,7 +50,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Riot Games-282C34?logo=riotgames&logoColor=EB0029" alt="WordPress logo" title="WordPress" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MQTT-282C34?logo=mqtt&logoColor=660066" alt="MQTT logo" title="MQTT" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/OpenSSL-282C34?logo=openssl&logoColor=721412" alt="OpenSSL logo" title="OpenSSL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Riot Games-282C34?logo=riotgames&logoColor=EB0029" alt="Riot Games logo" title="Riot Games" height="25" /></span>
 &nbsp;
 
 <br>
