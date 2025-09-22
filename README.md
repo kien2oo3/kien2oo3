@@ -30,8 +30,8 @@
 &nbsp; -->
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
-&nbsp; -->
+<span><img src="https://img.shields.io/badge/fastapi-282C34?logo=fastapi&logoColor=009688" alt="Fastapi logo" title="Fastapi" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
@@ -46,8 +46,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp; -->
+<span><img src="https://img.shields.io/badge/odoo-282C34?logo=odoo&logoColor=714B67" alt="Odoo" title="Odoo" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/postgresql-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL" title="PostgreSQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MQTT-282C34?logo=mqtt&logoColor=660066" alt="MQTT logo" title="MQTT" height="25" /></span>
